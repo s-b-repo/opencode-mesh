@@ -1,6 +1,6 @@
 {
   "name": "opencode-mesh",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Coordination mesh for multiple opencode CLI instances: tasks, shared memory, messaging, reviews, and local merge requests over MCP/HTTP",
   "main": "server.mjs",
   "scripts": {
